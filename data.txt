@@ -1,0 +1,11 @@
+Barinov | Sergey | Anatolivich | OLT | 89096789911 | 89084567788
+Krasnov | Oleg | Andreevich | Yandex | 89679087755 | 89095768899
+Polyakov | Anton | Alekseevich | Sber | 89096775511 | 89578095521
+Lyukin | Timofey | Olegovich | Yandex | 89096774555 | 89679895732
+Rumyanzev  | Dmitriy | Olegovich | Google | 890945678855 | 89578096677
+Aleksandrovich  | Stepan | Romanovich | QIVI | 89089006677 | 89097875523
+Novikov | Mikhail | Alekseevich | Open | 89068975545 | 89879055768
+Ageev | Konstantin | Olegovich | Live | 89887653421 | 8908764523
+Lyubimzev | Oleg | Mikhaylovich | Large | 89097655788 | 89095679040
+Svetlakov  | Roman | Sergeevich | Eva | 89887896655 | 89705554411
+Ryabushev | Stepan | Antonovich | Yandex | 89095677711 | 89769774523
